@@ -1,0 +1,195 @@
+﻿ADMIN,ADMIN,supports@hweejan.com.sg,IT
+ENGR001,APPASAMY NATARAJAN,testing@hweejan.com.sg,ENGR
+ENGR002,V KANESVARAN VELAYATHAM,testing@hweejan.com.sg,ENGR
+ENGR003,LI QIANG,testing@hweejan.com.sg,ENGR
+ENGR004,FARHAN,engr1@hweejan.com.sg,ENGR
+ENGR005,WINT SHWE SIN,proj2@hweejan.com.sg,ENGR
+ENGR006,"TIN TUN WIN, JOE",testing@hweejan.com.sg,ENGR
+ENGR007,PERUMAL GANESAN,testing@hweejan.com.sg,ENGR
+ENGR008,ALAGARSAMY PRAKASH,testing@hweejan.com.sg,ENGR
+ENGR009,CHRISTOPHER LOURTHUSAMY,projengr@hweejan.com.sg,ENGR
+ENGR010,GOVINDASAMY SAKTHIVEL,testing@hweejan.com.sg,ENGR
+ENGR011,SUN HUAN JIA,testing@hweejan.com.sg,ENGR
+ENGR012,CHARMAINE,engr1@hweejan.com.sg,ENGR
+ENGR013,JENNIFER,engr2@hweejan.com.sg,ENGR
+FNC001,LIEW LAY HOON,dorisliew@hweejan.com.sg,FINANCE
+FNC002,RICHARD TAY,richard@hweejan.com.sg,FINANCE
+FNC003,WONG LI YONG,acsap@hweejan.com.sg,FINANCE
+FNC004,YIN HTET MIN,accinv@hweejan.com.sg,FINANCE
+FNC005,CHENG YI LU,acct@hweejan.com.sg,FINANCE
+FNC006,VIVIAN,accs@hweejan.com.sg,FINANCE
+FNC007,JOYCE LIN,joycelin@hweejan.com.sg,FINANCE
+FNC008,CATHERINE,accap@hweejan.com.sg,FINANCE
+FNC009,KHAU,khau@hweejan.com.sg,FINANCE
+FNC010,ONG GIM HWAI,ghong@hweejan.com.sg,FINANCE
+FNC011,LEOW TECK HUAT,testing@hweejan.com.sg,FINANCE
+FNC012,SHARON,accap@hweejan.com.sg,FINANCE
+FNC013,KATHERINE LEONG,accap@hweejan.com.sg,FINANCE
+FNC014,GAN MEI FON,accap@hweejan.com.sg,FINANCE
+HR001,"LEE SOK KEOW, ALICE",alicelee@hweejan.com.sg,HR
+HR002,SITI HUSLIANA BINTE MOHD HUSAINI,recep@hweejan.com.sg,HR
+IT,SYSTEM ADMIN,systemadmin@hweejan.com.sg,IT
+IT001,AUDITOR,testing@hweejan.com.sg,IT
+IT002,GAN CHIN TAT,itanalyst@hweejan.com.sg,IT
+MKT001,"TEH ENG HUAT, VINCENT",vincent@hweejan.com.sg,MARKETING
+MKT002,ECHO ZHUANG,salescor@hweejan.com.sg,MARKETING
+MKT003,ROSE LORBIS,ma@hweejan.com.sg,MARKETING
+MKT004,QUEELLIE CHEW,queellie@hweejan.com.sg,MARKETING
+MKT005,BEH KOK HWA,khbeh@hweejan.com.sg,MARKETING
+MKT006,"YAO XIAOSI,DORIS",hjprod@gmail.com,MARKETING
+MKT007,CHEN XIAOYAN,scmkgt1@hweejan.com.sg,MARKETING
+MKT008,LIM CHENG TIONG,roger69@hweejan.com.sg,MARKETING
+MKT009,MICHELLE TAN,mktgr@hweejan.com.sg,MARKETING
+MKT010,ROVELYN ENGLIS,admin@hweejan.com.sg,MARKETING
+MKT011,LEON GOH,mktgr2@hweejan.com.sg,MARKETING
+MKT012,TOH POH GUAT,ma1@hweejan.com.sg,MARKETING
+MKT013,KOH AH MOI,testing@hweejan.com.sg,MARKETING
+MKT014,ECHO ZHUANG,salescor@hweejan.com.sg,ENGR
+MKT015,RICKY GOH,hjprod@gmail.com,MARKETING
+MKT016,"CHEW BOON SEE, JAYSIE",hygiene@hweejan.com.sg,MARKETING
+MKT017,LEE WENZHAN GERALD,salescor1@hweejan.com.sg,MARKETING
+MKT018,LIM WAN SIA,salescor2@hweejan.com.sg,MARKETING
+MKT019,LINNA,ma1@hweejan.com.sg,MARKETING
+MKT020,ROSHINI JEINEL SALVA,RoshiniJS@hweejan.com.sg,MARKETING
+MKT021,LUO SI,testing@hweejan.com.sg,MARKETING
+MKT088,QUEELLIE & LUO SI,testing@hweejan.com.sg,MARKETING
+MNG001,LIM HOCK LOCK,hllim@hweejan.com.sg,MANAGE
+MNG002,"LIM HOCK ANN, MIKE",mikelim@hweejan.com.sg,MANAGE
+MNG003,LIM HOCK SENG,hslim@hweejan.com.sg,MANAGE
+PEIWEN,TAN PEI WEN,testing@hweejan.com.sg,ENGR
+PJT001,KHIU YEW NG,testing@hweejan.com.sg,PROJECT
+PJT003,HARRY THIHA WIN,testing@hweejan.com.sg,PROJECT
+PJT004,TAMIL SELVAN A/L RAJAN,testing@hweejan.com.sg,PROJECT
+PJT005,LIM CHENG WEE,cwlim@hweejan.com.sg,PROJECT
+PJT006,"LIM HWA NGUAN, PAUL",paul@hweejan.com.sg,PROJECT
+PJT007,KALIYAPERUMAL MANIKANDAN,testing@hweejan.com.sg,PROJECT
+PJT008,KALIYAPERUMAL MURUGESAN,testing@hweejan.com.sg,PROJECT
+PJT009,TAN WEI,testing@hweejan.com.sg,PROJECT
+PJT010,LIN XIAO FENG,testing@hweejan.com.sg,PROJECT
+PJT011,LU XIN XIANG,testing@hweejan.com.sg,PROJECT
+PJT012,THANGAVEL SARAVANAN,testing@hweejan.com.sg,PROJECT
+PJT013,ADRIEN LIM PEI ARN,testing@hweejan.com.sg,PROJECT
+PJT014,KITTU MATHIYALAGAN,testing@hweejan.com.sg,PROJECT
+PJT015,K MOUNISSAMY,testing@hweejan.com.sg,PROJECT
+PJT016,JEMIN CHUA,testing@hweejan.com.sg,PROJECT
+PJT017,EMIL PINEDA JR,testing@hweejan.com.sg,PROJECT
+PJT018,VINCENT TAN,testing@hweejan.com.sg,PROJECT
+PJT019,"CHUA JUNE TAI, RAY",projengr@hweejan.com.sg,PROJECT
+PJT020,ADAIKKAN PALANICHAMY,testing@hweejan.com.sg,PROJECT
+PJT021,KALIYAPERUMAL MANIKANDAN,testing@hweejan.com.sg,PROJECT
+PJT022,SITI ALIFAH,proj@hweejan.com.sg,PROJECT
+PROD001,LIM CHENG KEE,cklim@hweejan.com.sg,PRODUCTION
+PROD002,NARAYANA MURTHI A/L KRISHNAN,testing@hweejan.com.sg,PRODUCTION
+PROD003,CHONG CHEW YIN,prodnp@hweejan.com.sg,PRODUCTION
+PROD004,RAMAIAH ARUMUGAM,testing@hweejan.com.sg,PRODUCTION
+PROD005,RAMAIAH SERVAI SUNDARAJAN,testing@hweejan.com.sg,PRODUCTION
+PROD006,ARASAPPAN PANDIYAN,testing@hweejan.com.sg,PRODUCTION
+PROD007,PERIYANAN VALLIAPPAN,testing@hweejan.com.sg,PRODUCTION
+PROD008,MURUGESAN VINOTH,testing@hweejan.com.sg,PRODUCTION
+PROD009,CHINNAPPA VISHWANATHAN,testing@hweejan.com.sg,PRODUCTION
+PROD010,KARUPPAIAH MANOHARAN,testing@hweejan.com.sg,PRODUCTION
+PROD011,ANDIAPPAN MALAIYARASAN,testing@hweejan.com.sg,PRODUCTION
+PROD012,VIRUDHU MEETAN VAIRAKKANNAN,testing@hweejan.com.sg,PRODUCTION
+PROD013,GAO JIAN QIANG,testing@hweejan.com.sg,PRODUCTION
+PROD014,ALAGARSAMY PRAKASH,testing@hweejan.com.sg,PRODUCTION
+PROD015,RAMDOSS SASIKUMAR,testing@hweejan.com.sg,PRODUCTION
+PROD016,KARUPPAIAH BOSE,testing@hweejan.com.sg,PRODUCTION
+PROD017,THAVAMANI ANAND,testing@hweejan.com.sg,PRODUCTION
+PROD018,SAMY AIYA THIYAGARAJAN,testing@hweejan.com.sg,PRODUCTION
+PROD019,RAYER ELAVARASAN,testing@hweejan.com.sg,PRODUCTION
+PROD020,BOSE CHINNADAIKKAN,testing@hweejan.com.sg,PRODUCTION
+PROD021,SUBRAMANIAN LENABHARATHI,testing@hweejan.com.sg,PRODUCTION
+PROD022,NATARAJAN VIMALKANDAN,testing@hweejan.com.sg,PRODUCTION
+PROD023,SELVARASU SELVAMANI,testing@hweejan.com.sg,PRODUCTION
+PROD024,ARANGAN MENNAPPAN,testing@hweejan.com.sg,PRODUCTION
+PROD025,JIN BO,testing@hweejan.com.sg,PRODUCTION
+PROD026,RAJENDIRAN SHANMUGARAJ,testing@hweejan.com.sg,PRODUCTION
+PROD027,AYYAKKANNU ELANGOVAN,testing@hweejan.com.sg,PRODUCTION
+PROD028,PERUMAL GANESAN,tesing@hweejan.com.sg,PRODUCTION
+PROD029,GOVINDAN MUNISAMY,testing@hweejan.com.sg,PRODUCTION
+PROD030,KARUPPAIAH GANESAN,testing@hweejan.com.sg,PRODUCTION
+PROD031,CHINNADURAI SANTHOSHKUMAR,testing@hweejan.com.sg,PRODUCTION
+PROD032,PERUMAL SELVAM,tesing@hweejan.com.sg,PRODUCTION
+PROD033,MUTHU ALAGAR,testing@hweejan.com.sg,PRODUCTION
+PROD034,CHINNAPPA VISHWANATHAN,testing@hweejan.com.sg,PRODUCTION
+PROD035,ANDIAPPAN MALAIYARASAN,testing@hweejan.com.sg,PRODUCTION
+PROD036,RASU KUMAR,testing@hweejan.com.sg,PRODUCTION
+PROD037,MARIPEN A/L SHAMUGAM,testing@hweejan.com.sg,PRODUCTION
+PROD038,LOO ZHI HAO,testing@hweejan.com.sg,PRODUCTION
+PROD039,ADAIKKAN ARUMUGAM,testing@hweejan.com.sg,PRODUCTION
+PUR001,JESSICA,jessicalim@hweejan.com.sg,PURCHASE
+PUR002,JEANNIE,purch@hweejan.com.sg,PURCHASE
+PUR003,DENNIS,asstpurch@hweejan.com.sg,PURCHASE
+PUR004,FLORENCE,asstpurch@hweejan.com.sg,PURCHASE
+QC001,LAI YING WAH,testing@hweejan.com.sg,QC
+QC002,KENNY CHEN,coord@hweejan.com.sg,QC
+QC003,SAMY AIYA THIYAGARAJAN,testing@hweejan.com.sg,QC
+SERV001,NAY LIN AUNG,testing@hweejan.com.sg,SERVICE
+SERV002,TAN HUATAO,testing@hweejan.com.sg,SERVICE
+SERV003,WANG BISUO,testing@hweejan.com.sg,SERVICE
+SERV004,KOH LENG CHUA,testing@hweejan.com.sg,SERVICE
+SERV005,ARUN KUMAR,testing@hweejan.com.sg,SERVICE
+SERV006,"CHEN XUXING, KENNY",testing@hweejan.com.sg,SERVICE
+SERV007,XU JAIN HANG,testing@hweejan.com.sg,SERVICE
+SERV008,RAMANATHAN ADAIKKAPPAN,testing@hweejan.com.sg,SERVICE
+SERV009,RAMASAMY RAMACHANDRAN,testing@hweejan.com.sg,SERVICE
+SERV010,RAJA PONNAMBALAM,testing@hweejan.com.sg,SERVICE
+SERV011,DAVID YAP,asm@hweejan.com.sg,SERVICE
+SERV012,JAYABAL SOWRIRAJAN,serv@hweejan.com.sg,SERVICE
+SERV013,JOHNSON LIM C A,serv@hweejan.com.sg,SERVICE
+SERV014,LI ZHI YONG,testing@hweejan.com.sg,SERVICE
+SERV015,TIAN XI KANG,testing@hweejan.com.sg,SERVICE
+SERV016,LU RUJIAN,testing@hweejan.com.sg,SERVICE
+SERV017,NAGAPRAKASH,sercor@hweejan.com.sg,SERVICE
+SERV018,PREMA SRI ANURATHA,mes@hweejan.com.sg,SERVICE
+SERV019,SEOW KHEE SIANG,testing@hweejan.com.sg,SERVICE
+SERV020,TAN PEC KENG,serv@hweejan.com.sg,SERVICE
+SERV021,WONG CHIN LOONG,testing@hweejan.com.sg,SERVICE
+SERV022,ZHANG SHAOFENG,testing@hweejan.com.sg,SERVICE
+SERV023,NG YONG HUN,mes@hweejan.com.sg,SERVICE
+SERV024,SERVICE CENTER,serv@hweejan.com.sg,SERVICE
+SERV025,NORTHLINK,testing@hweejan.com.sg,SERVICE
+SERV026,WANG FUQUAN,testing@hweejan.com.sg,SERVICE
+SERV027,ZUO GUOWEN,testing@hweejan.com.sg,SERVICE
+SERV028,GUAN CHANGJIN,testing@hweejan.com.sg,SERVICE
+SERV029,SONG CONGQUAN,testing@hweejan.com.sg,SERVICE
+SERV030,KIRBY CHAN KOK FONG,testing@hweejan.com.sg,SERVICE
+SERV031,TAN TECK KHIAN,testing@hweejan.com.sg,SERVICE
+SERV033,HE AIMIN,testing@hweejan.com.sg,SERVICE
+SERV034,TAO SHILI,testing@hweejan.com.sg,SERVICE
+SERV035,XU JIE,testing@hweejan.com.sg,SERVICE
+SERV036,YANG LI JUN,testing@hweejan.com.sg,SERVICE
+SERV037,SOH,testing@hweejan.com.sg,SERVICE
+SERV038,JASMINE,testing@hweejan.com.sg,SERVICE
+SERV039,YAO JIN HAI,testing@hwejan.com.sg,SERVICE
+SERV040,RAJU SUTHAKAR,testing@hweejan.com.sg,SERVICE
+SERV041,RAMAMOORTHY RAMESH,testing@hweejan.com.sg,SERVICE
+SERV042,CHEN QIANZU,testing@hweeejan.com.sg,SERVICE
+SERV043,LEE CHIN SENG,testing@hweejan.com.sg,SERVICE
+SERV044,SAKARAJATHY BUSKAREN,testing@hweejan.com.sg,SERVICE
+SERV045,LAI YING WAH,testing@hweejan.com.sg,SERVICE
+SERV046,ANDIAPPAN ANANDH,testing@hweejan.com.sg,SERVICE
+SERV047,CATHERINE SEE,testing@hweejan.com.sg,SERVICE
+SERV048,VINCENT TAN,serv2@hweejan.com.sg,SERVICE
+SERV049,SELVAKUMAR PRABAKARAN,testing@hweejan.com.sg,SERVICE
+SERV050,TAN KEE SENG,serv2@hweejan.com.sg,SERVICE
+SERV051,HNG CHAN SIANG,serv2@hweejan.com.sg,SERVICE
+SERV052,CHIDAMPARAM MAHALINGAM,testing@hweejan.com.sg,SERVICE
+SERV053,KHO WEN SOON,testing@hweejan.com.sg,SERVICE
+STR001,KALAIVANI A/P VELU,testing@hweejan.com.sg,STORE
+STR002,HO KOK HOOI,testing@hweejan.com.sg,STORE
+STR003,YAP JUN XIAN,testing@hweejan.com.sg,STORE
+STR004,"ENG NID KEOW, YOYO",atm@hweejan.com.sg,STORE
+STR005,MANI VANNAN ANAMALALY,testing@hweejan.com.sg,STORE
+STR006,KOK MUN LAM,testing@hweejan.com.sg,STORE
+STR007,LAI YING WAH,store@hweejan.com.sg,STORE
+STR008,MARKUS LIM,testing@hweejan.com.sg,STORE
+STR009,NATHAN A/L GANGADOREI,testing@hweejan.com.sg,STORE
+STR010,PALANIVELU A/L RATANA SAMY,testing@hweejanc.om.sg,STORE
+STR011,THIIBENDRAN RAVINDARAN,testing@hweejan.com.sg,STORE
+STR012,YUGESWARAN A/L SUNDRAM,testing@hweejan.com.sg,STORE
+STR013,THANASEGARAN A/L RAJAGOPAL,testing@hweejan.com.sg,STORE
+STR014,TONG WEN CHENG,testing@hweejan.com.sg,STORE
+SUBCON1,VINCENT HENG,testing@hweejan.com.sg,ENGR
+SYSTEM,SYSTEM,system@hweejan.com.sg,ENGR
+WEBIMP,WEBIMP,testing@hweejan.com.sg,IT
